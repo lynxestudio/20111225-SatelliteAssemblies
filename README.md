@@ -1,4 +1,4 @@
-# Usando Satellite Assemblies con MonoDevelop - (parte 1)
+# Usando Satellite Assemblies
 
 <p align="justify">
 Una de las características más atractivas que .NET ofrece para el desarrollo de software es la capacidad de crear componentes en diferentes lenguajes de programación, esto es posible por que el objetivo de cada compilador existente para .NET es producir un assembly (ensamblado) el cual por definición es: La unidad funcional de distribución, versionamiento y de identidad de la plataforma .NET.
